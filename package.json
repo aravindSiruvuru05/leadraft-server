@@ -5,7 +5,7 @@
   "repository": "",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "npm server.js",
     "precommit": "lint-staged"
   },
   "dependencies": {
