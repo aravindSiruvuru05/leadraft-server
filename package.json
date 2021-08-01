@@ -5,7 +5,7 @@
   "repository": "",
   "license": "MIT",
   "scripts": {
-    "start": "npm server.js",
+    "start": "node server.js",
     "precommit": "lint-staged"
   },
   "dependencies": {
